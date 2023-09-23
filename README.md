@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuqingg&layout=compact&langs_count=8&hide=JavaScript,VHDL,HTML,Assembly,Tcl,CSS,Shell&exclude_repo=iResearch2)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuqingg&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuqingg&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
