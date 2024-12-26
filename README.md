@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuqingg&layout=compact&langs_count=6&exclude_repo=minisat, hotstuff,CLRS,Data-Structure&hide=JavaScript,VHDL,HTML,Assembly,Tcl,Shell,jupyter)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuqingg&layout=compact&langs_count=8&hide=VHDL,HTML,Assembly,Tcl,Shell,Jupyter&exclude_repo=iResearch2&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuqingg&layout=compact&langs_count=8&hide=VHDL,HTML,Assembly,Tcl,Shell,Jupyter&exclude_repo=iResearch2,data_mining_project&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![ChuqingG's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuqingg&show_icons=true&hide_rank=false&&theme=vue&card_width=100)](https://github.com/anuraghazra/github-readme-stats) -->
